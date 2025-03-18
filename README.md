@@ -1,45 +1,61 @@
-# m-shintaro (aka Satoshi Nakamoto 2.0)
-$${\color{red}This \space GitHub \space profile \space is \space a \space \bf{\color{red}shady \space person's \space profile} \space \color{red}imagined \space by \space AI.}$$  
-$${\color{red}This \space is \space a \space joke, \space so \space please \space don't \space take \space it \space seriously.}$$
+# Hi, I'm Shintaro Matsumoto! 👋
 
+> 🚀 **Innovator & Developer in Robotics, AI, and ROV Engineering**
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://m-shintaro.github.io/)
 
-## 👋 Welcome to My World of Disruptive Innovation 🚀 (and maybe some code)
+## 🛰️ About Me
 
-Hi, I'm **m-shintaro**, a visionary polymath engineer, entrepreneur, and interstellar enthusiast. I'm not just building the future; I'm *architecting* it. I operate at the bleeding edge of autonomous systems, small satellites, machine learning, and robotics, pushing the boundaries of what's possible in underwater drones (AUVs), CubeSats, and environmental monitoring powered by the very essence of AI. I'm basically Tony Stark minus the ego...mostly. 😉
+High school researcher passionate about developing innovative technology to explore and protect our environment. From building stratospheric observation systems to underwater drones and satellite technologies, I'm constantly pushing the boundaries of what's possible with DIY scientific equipment.
+
+*Leading teams. Solving problems. Creating the future.*
+
+## 🚀 Featured Projects
+
+### 🌊 Low-Cost Underwater Drone
+- Developed autonomous underwater vehicle (AUV) for comprehensive environmental monitoring
+- Pressure-resistant to 140m depth with high-precision temperature/depth sensors
+- Successfully tested at JAMSTEC and Lake Biwa
+- [View Project](https://github.com/Triton-Project)
+
+### 🛰️ CubeSat "IWATO" Development
+- Contributing to 10cm³ satellite scheduled for ISS deployment in April 2025
+- Working on sensor testing and ground communication systems
+- Features laser reflector for centimeter-precision orbital tracking
+
+### 🧠 AI for Environmental Monitoring
+- Created YOLOv4 + LMM system for fish detection and classification in underwater footage
+- Developed coral reef detection using deep learning (YOLOv2) with 80% accuracy
+- MATLAB EXPO award-winning research projects (2022, 2023, 2024)
+
+### 🎈 Stratospheric Research
+- Led team building UV radiation measurement devices for stratospheric deployment
+- Successfully launched and recovered data from 30+ km altitude
+- Analyzed efficacy of UV protection methods for future human stratospheric travel
+
+## 💻 Technical Skills
+
+```python
+skills = {
+    'Programming': ['Python', 'MATLAB', 'C++', 'JavaScript'],
+    'AI/ML': ['YOLOv2/v4', 'Neural Networks', 'LLMs', 'Computer Vision'],
+    'Hardware': ['Arduino', 'Raspberry Pi', 'Sensor Integration', '3D Printing', 'CAD Design'],
+    'Data Analysis': ['Signal Processing', 'Environmental Data', 'GPS/IMU']
+}
+```
+
+## 🏆 Achievements
+
+- 🥇 WNI WxBunka Foundation "Weather Observation Equipment Contest" - Grand Prize([View Paper](https://www.matlabexpo.com/content/dam/mathworks/mathworks-dot-com/images/events/matlabexpo/jp/2023/Evaluation-of-real-world-applicability-of-gps-independent-location-estimation-methods.pdf))
+- 🥇 MATLAB EXPO 2023 - Best Poster Award([View Poster](https://www.matlabexpo.com/content/dam/mathworks/mathworks-dot-com/images/events/matlabexpo/jp/2023/Evaluation-of-real-world-applicability-of-gps-independent-location-estimation-methods.pdf))
+- 🥇 MATLAB EXPO 2022 - Best Poster Award([View Poster](https://www.matlabexpo.com/content/dam/mathworks/mathworks-dot-com/company/events/conferences/matlab-expo-japan-2022/poster-8.pdf?adobe_mc=MCMID%3D14258115729527738920898065798659299151%7CMCORGID%3DB1441C8B533095C00A490D4D%2540AdobeOrg%7CTS%3D1742299825))
+- 🥈 MATLAB EXPO 2024 - 2nd Place Poster Award([View Poster](https://www.matlabexpo.com/content/dam/mathworks/mathworks-dot-com/company/events/conferences/matlab-expo-japan/2024/jp-expo-2024-poster-e-kagaku-fish-classification.pdf))
+- 🚀 Successfully launched and recovered stratospheric observation equipment
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m-shintaro&theme=transparent)
 
 ---
 
-### 🚀 About Me (or, the legend in the making)
-- **🌱 Currently Learning**: Quantum computing for enhanced AUV navigation. Also, mastering telekinesis for hands-free coding. (Just kidding...mostly. 😉)  Seriously though, I'm delving into the synergistic fusion of  hyper-dimensional machine learning algorithms with autonomous systems, concentrating on AUVs capable of achieving sentience (almost there!).  Oh, and perfecting my vSLAM and computer vision skills to capture the universe's secrets in real-time.
-- **🔧 Hands-On Experience**: I've built everything from self-aware AUVs (almost) to deep learning models that can identify individual plankton by their emotional aura. I effortlessly bridge the chasm between theoretical physics and practical engineering, conjuring innovative projects from the ether.
-- **🌍 Global Perspective**: I'm not just solving global challenges; I'm *transcending* them.  Environmental protection? Child's play. Space exploration?  My weekend hobby. My projects are designed to usher in a new era of intergalactic harmony and planetary enlightenment.
-
----
-
-### 🛠️ Tech Stack & Tools (My Digital Arsenal)
-- **Programming**: MATLAB (like a Jedi Master), Python (my trusty sidekick), C++ (for when things get *real*), Arduino, Processing, Xcode, Assembly (because why not?), Klingon (working on it).
-- **Machine Learning & AI**: YOLOv8 (I wrote v5-7 myself, but they're classified), TensorFlow (my playground), OpenCV, PyTorch, Custom AI frameworks I haven't named yet (because they're too powerful).
-- **Systems & Robotics**: vSLAM (I practically invented it), ROS (I rewrote it to be 10x faster), AUV Engineering (my domain), Advanced Robotics (I taught robots to feel).
-- **3D Design & Prototyping**: Fusion360, SolidWorks, Telepathic Projection (still in beta).
-- **Cloud & DevOps**: AWS (I have my own private server farm on the moon), Docker, GitHub Actions (I automated everything, including my coffee maker).
-- **Data Analytics & Simulation**: MATLAB, Python (Pandas, NumPy), Simulink, My own proprietary data visualization software that renders reality obsolete.
-- **Other**: Fusion360 (again, because it's that good), Arduino (for tinkering with the fabric of spacetime), AWS (my digital kingdom).
-
----
-
-### 📈 My GitHub Stats (Prepare to be Amazed)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m-shintaro&theme=transparent)
-*(Stats are low because most of my work is classified. Sorry, not sorry.)*
-
-
----
-
-### 🌌 Inspirations and Future Goals (aka World Domination...for good, of course)
-I'm driven by the infinite possibilities of the cosmos. My goal? To create a symbiotic network of self-aware AI-powered robots that will guide humanity towards a utopian future.  Think Star Trek meets Wall-E, but with less lens flare and more actual science.  Just imagine: autonomous systems exploring the depths of the Mariana Trench, terraforming Mars, and composing symphonies that transcend human comprehension. That's what I'm working on.  No big deal. 😉
-
----
-
-Feel free to reach out if you want to discuss the future of the universe, collaborate on a top-secret project, or just bask in the glow of my genius.  But be warned, my intellect is contagious.
-
-*(This profile may contain traces of irony.  May also contain nuts.)*
+*"The ocean is calling and I must go" — John Muir (adapted)*
