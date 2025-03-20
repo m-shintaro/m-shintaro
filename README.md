@@ -46,7 +46,7 @@ skills = {
 
 ## 🏆 Achievements
 
-- 🥇 WNI WxBunka Foundation "Weather Observation Equipment Contest" - Grand Prize([View Paper](https://www.matlabexpo.com/content/dam/mathworks/mathworks-dot-com/images/events/matlabexpo/jp/2023/Evaluation-of-real-world-applicability-of-gps-independent-location-estimation-methods.pdf))
+- 🥇 WNI WxBunka Foundation "Weather Observation Equipment Contest" - Grand Prize([View Paper](https://www.wxbunka.com/cms/wp-content/uploads/2024/11/41.ritsumeikan-osaka_ai.pdf))
 - 🥇 MATLAB EXPO 2023 - Best Poster Award([View Poster](https://www.matlabexpo.com/content/dam/mathworks/mathworks-dot-com/images/events/matlabexpo/jp/2023/Evaluation-of-real-world-applicability-of-gps-independent-location-estimation-methods.pdf))
 - 🥇 MATLAB EXPO 2022 - Best Poster Award([View Poster](https://www.matlabexpo.com/content/dam/mathworks/mathworks-dot-com/company/events/conferences/matlab-expo-japan-2022/poster-8.pdf?adobe_mc=MCMID%3D14258115729527738920898065798659299151%7CMCORGID%3DB1441C8B533095C00A490D4D%2540AdobeOrg%7CTS%3D1742299825))
 - 🥈 MATLAB EXPO 2024 - 2nd Place Poster Award([View Poster](https://www.matlabexpo.com/content/dam/mathworks/mathworks-dot-com/company/events/conferences/matlab-expo-japan/2024/jp-expo-2024-poster-e-kagaku-fish-classification.pdf))
