@@ -12,6 +12,4 @@
 ## Toolbelt  
 `Python • MATLAB • C++ • JS | YOLOv4 • LLMs • CV | Arduino • Pi • 3D-Print • CAD`
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=m-shintaro&theme=transparent)
-
-> *Currently accepting challenges involving oceans, orbits, and other inconvenient locations.* 🌊
+> *The Ocean Is Calling And I Must Go.* 🌊
